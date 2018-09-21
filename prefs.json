@@ -1,11 +1,14 @@
 {
-    "filesdir": "files",
-    "dbfilename": "stories.sqlite3",
-    "username": "insert username",
-    "password": "insert password",
-    "usernames": [
+    "filesdir": "./files",
+    "dbfilename": "ERRqrlDyGu7WzR4EDoGeUzwfuBBiuOGG",
+    "username": "benjaminrodriguezperez4",
+    "password": "berti1234",
+    "usernames": [htoscanoruiz
         "instagram",
         "pketron"
     ],
-    "quiet": false
+    "quiet": true
 }
+...
+"cookie": "ERRqrlDyGu7WzR4EDoGeUzwfuBBiuOGG",
+...
